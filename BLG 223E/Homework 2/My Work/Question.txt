@@ -1,0 +1,2 @@
+Keys should contain all 26 English letters and a space character, in order to encode a word, we do require tokens for all the possible letters.
+ 
