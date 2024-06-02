@@ -27,9 +27,8 @@ A public repository for my past homework, any ITU student can benefit from my pu
 
 ### Spring Term
 - [BLG 312E Operating Systems](https://github.com/fthbaskin/ITU_Homeworks/tree/main/BLG%20312E)
-
-- BLG 336E Algorithms II
-    - Not complete yet!
+- [BLG 336E Algorithms II](https://github.com/fthbaskin/ITU_Homeworks/tree/main/BLG%20336E)
+- [BLG 354E Signals & Systems](https://github.com/fthbaskin/ITU_Homeworks/tree/main/BLG%20354E)
 
 
 ## Fourth Year Courses
@@ -42,15 +41,10 @@ A public repository for my past homework, any ITU student can benefit from my pu
 ## Elective Courses
 
 ### TM Courses
-- BLG 368E Operations Research
-    - Not Complete Yet!
-
+- [BLG 368E Operations Research](https://github.com/fthbaskin/ITU_Homeworks/tree/main/BLG%20368E)
 - [BLG 454E Learning From Data](https://github.com/fthbaskin/ITU_Homeworks/tree/main/BLG%20454E)
     - [Project Repository](https://github.com/lfd-team2/lfd_team2_project)
 
 ### MT Courses
-- BLG 433E Computer Communications
-    - Not complete yet!
-
-- BLG 468E Object Oriented Modelling and Design
-    - Not complete yet!
+- [BLG 433E Computer Communications](https://github.com/fthbaskin/ITU_Homeworks/tree/main/BLG%20433E)
+- [BLG 468E Object Oriented Modelling and Design](https://github.com/fthbaskin/ITU_Homeworks/tree/main/BLG%20468E)
