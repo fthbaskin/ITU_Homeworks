@@ -1,0 +1,26 @@
+# pycache
+*.pyc
+*.pyo
+*.pyd
+__pycache__/*
+__pycache__/
+
+# virtualenv
+venv/*
+venv/
+env/*
+env/
+ENV/*
+ENV/
+.venv/*
+.venv/
+
+# vscode
+.vscode/*
+.vscode/
+
+# png
+*.png
+
+# log
+*.log
