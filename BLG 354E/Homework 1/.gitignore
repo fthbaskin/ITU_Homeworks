@@ -1,0 +1,21 @@
+# venv
+.venv
+.venv/*
+venv
+venv/*
+
+# pycache
+__pycache__
+__pycache__/*
+
+# vscode
+.vscode
+.vscode/*
+
+# rar/zip/7z files to ignore
+*.zip
+*.rar
+*.7z
+
+# report pdfs
+*_report.pdf
